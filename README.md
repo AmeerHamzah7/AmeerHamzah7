@@ -6,8 +6,9 @@
 - 📫 Reach me at hamzah95@live.com<br>
 - 😄 Pronouns: He/him<br>
 - ⚡ Fun fact: I enjoy experimenting with latest technologies!<br>
+<br>
 
-Profile Views: [![HitCount](https://hits.dwyl.com/AmeerHamzah7/AmeerHamzah7.svg?style=flat-square)](http://hits.dwyl.com/AmeerHamzah7/AmeerHamzah7)
+[![HitCount](https://hits.dwyl.com/AmeerHamzah7/AmeerHamzah7.svg?style=flat-square)](http://hits.dwyl.com/AmeerHamzah7/AmeerHamzah7)
 
 <!---
 AmeerHamzah7/AmeerHamzah7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
