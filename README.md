@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AmeerHamzah7
+- 👋 Hi, I’m Ameer Hamza
 - 👀 I’m interested in solving problem by tech solutions
 - 🌱 I’m currently learning TypeScript at Governor Sindh IT Initiative Program
 - 💞️ I’m looking to collaborate on projects related to software development and problem-solving.
