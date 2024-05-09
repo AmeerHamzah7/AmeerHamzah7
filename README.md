@@ -3,9 +3,11 @@
 - 👀 I’m interested in solving problem by tech solutions<br>
 - 🌱 I’m currently learning TypeScript at Governor Sindh IT Initiative Program<br>
 - 💞️ I’m looking to collaborate on projects related to software development and problem-solving<br>
-- 📫 How to reach me? email me at hamzah95@live.com<br>
+- 📫 Reach me at hamzah95@live.com<br>
 - 😄 Pronouns: He/him<br>
 - ⚡ Fun fact: I enjoy experimenting with latest technologies!<br>
+
+Profile Views: [![HitCount](https://hits.dwyl.com/AmeerHamzah7/AmeerHamzah7.svg?style=flat-square)](http://hits.dwyl.com/AmeerHamzah7/AmeerHamzah7)
 
 <!---
 AmeerHamzah7/AmeerHamzah7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
