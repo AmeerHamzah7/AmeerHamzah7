@@ -1,4 +1,4 @@
-<img src="https://miro.medium.com/v2/resize:fit:1052/1*6qrtmT03RNBPnbu1zD6i3g.png" alt="AMEER HAMZA coder">
+<img src="[https://miro.medium.com/v2/resize:fit:1052/1*6qrtmT03RNBPnbu1zD6i3g.png](https://media.licdn.com/dms/image/v2/D4D16AQGBR7C4kkHwrw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730223036290?e=1735776000&v=beta&t=JEX0dS40OakLdbxnpV0c2qCfuwVf6KTIQ-2X1aG3osE)" alt="AMEER HAMZA coder">
 <h1> 👋 Hi, I’m Ameer Hamza</h1>
 - 👀 I’m interested in solving problem by tech solutions<br>
 - 🌱 I’m currently learning TypeScript at Governor Sindh IT Initiative Program<br>
