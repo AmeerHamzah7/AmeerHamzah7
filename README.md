@@ -1,7 +1,7 @@
 <img src="https://miro.medium.com/v2/resize:fit:1052/1*6qrtmT03RNBPnbu1zD6i3g.png" alt="AMEER HAMZA coder">
 <h1> 👋 Hi, I’m Ameer Hamza</h1>
 - 👀 I’m interested in solving problem by tech solutions<br>
-- 🌱 I’m currently learning TypeScript at Governor Sindh IT Initiative Program<br>
+- 🌱 I’m currently learning Web Development at Governor Sindh IT Initiative Program<br>
 - 💞️ I’m looking to collaborate on projects related to software development and problem-solving<br>
 - 📫 Reach me at hamzah95@live.com<br>
 - 😄 Pronouns: He/him<br>
